@@ -107,6 +107,4 @@ Logs are written to:
 --verbose              Print detected completion events
 ```
 
-## License
 
-MIT

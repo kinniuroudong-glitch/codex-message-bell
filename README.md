@@ -31,7 +31,7 @@ No Python packages are required.
 ```bash
 git clone https://github.com/kinniuroudong-glitch/codex-message-bell.git
 cd codex-message-bell
-./install.sh
+sh install.sh
 ```
 
 After installation, the helper runs in the background via `launchd`. When a Codex task completes, macOS plays the notification once.
@@ -65,7 +65,7 @@ python3 codex_message_bell.py --verbose
 ## Uninstall
 
 ```bash
-./uninstall.sh
+sh uninstall.sh
 ```
 
 Or:
